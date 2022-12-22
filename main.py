@@ -1,5 +1,5 @@
-from thypylibs.greeting import hi
-from thypylibs.farewell import bye
+from ryepylibs.greeting import hi
+from ryepylibs.farewell import bye
 
 def main():
     hi = hi()

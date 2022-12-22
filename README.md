@@ -1,4 +1,4 @@
-# thypy
+# ryepy
 Python project reference
 
 ## Start virtual env

@@ -8,4 +8,4 @@ r:
 
 # test
 t:
-	clear && poetry run pytest tests/test_thy.py
+	clear && poetry run pytest tests/test_rye.py
