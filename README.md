@@ -5,12 +5,12 @@ Python + Docker project reference
 
 Build
 ```
-sudo docker build -t ryepy .
+sudo docker build -t pydock .
 ```
 
 Run
 ```
-sudo docker run -it ryepy
+sudo docker run -it pydock
 ```
 
 <br>
@@ -19,22 +19,22 @@ sudo docker run -it ryepy
 
 Start virtual env
 ```
-sudo docker run -it ryepy s
+sudo docker run -it pydock s
 ```
 
 Run
 ```
-sudo docker run -it ryepy r
+sudo docker run -it pydock r
 ```
 
 Test
 ```
-sudo docker run -it ryepy t
+sudo docker run -it pydock t
 ```
 
 Add deps
 ```
-sudo docker run -it ryepy a
+sudo docker run -it pydock a
 ```
 
 <br>
