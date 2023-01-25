@@ -1,5 +1,5 @@
 # pydock
-Python project reference
+Python + Docker project reference
 
 # Docker
 
