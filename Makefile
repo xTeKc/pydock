@@ -8,4 +8,7 @@ r:
 
 # test
 t:
-	clear && poetry run pytest tests/test_rye.py
+	clear && poetry run pytest tests/test_all.py
+
+a:
+	clear && poetry add $(shell read -p "Enter the dep to add: " dep; echo $$dep)
