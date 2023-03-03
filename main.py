@@ -1,5 +1,5 @@
-from libs.hello import hi
-from libs.goodbye import bye
+from libpy.hello import hi
+from libpy.goodbye import bye
 
 def main():
     hi = hi()
